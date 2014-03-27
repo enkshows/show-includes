@@ -5,7 +5,7 @@
      <a href="http://www.enkshows.com/sole/2014/feb/"><strong>February 23.24.25, 2014 @ Javits Center.NYC</strong></a><br>
       Sunday/Monday, 9am - 6pm  • Tuesday, 9am - 5pm <br><br>
     
-     <a href="http://www.enkshows.com/sole/2014/feb/"><strong>September, 2014 @ Javits Center.NYC</strong></a><br>
+     <a href="http://www.enkshows.com/sole/"><strong>September, 2014 @ Javits Center.NYC</strong></a><br>
     </span>
   </div>
 </div>
