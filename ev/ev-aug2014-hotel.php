@@ -20,18 +20,17 @@
 
           <div class="manual-l">
             <strong>Hours</strong><br>
-            Tuesday, February 18 / 9am - 6pm<br>
-            Wednesday, February 19 / 9am - 6pm<br>
-            Thursday, February 20 / 9am - 5pm<br><br>
+            Monday, August 18 / 9am - 6pm<br>
+            Tuesday, August 19 / 9am - 6pm<br>
+            Wednesday, August 20 / 9am - 5pm<br><br>
           </div>    
           <iframe width="520" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="../../../maps/mandalay.html"></iframe>  <br />
         </div>
 
         <div id="concierge-content2" class="showcol-content"> 
-          ENK, together with our travel partner Travel Planners, has negotiated discounted rates at many Las Vegas hotels.  
-          Please visit Travel Planners for <a href="https://www.tphousing.com/r2/startres.aspX?EICode=2839&Attcode=1622" target="_blank"><strong>Attendees</strong></a> 
-          or for <a href="https://www.tphousing.com/r2/startres.aspX?EICode=2839&Attcode=1622" target="_blank"><strong>Exhibitors</strong></a> 
-          to make reservations or call 800.221.3531 (from the US, Canada & Caribbean) or +1.212.532.1660.
+          <p>Coming Soon...</p>
+          <!-- <p>For exclusive hotel discounts and reservations, please click <a href="https://www.tphousing.com/r2/startres.aspX?EICode=2839&Attcode=1622" target="new"><strong>Attendees</strong></a>
+           or <a href="https://www.tphousing.com/r2/startres.aspX?EICode=2839&Attcode=1622" target="new"><strong>Exhibitors</strong></a>.</p><br> -->
         </div>
 
         <div id="concierge-content3" class="showcol-content">

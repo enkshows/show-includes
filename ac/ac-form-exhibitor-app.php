@@ -1,8 +1,8 @@
 <div id="form2" class="form2 formhide">
   <h2>Exhibitor Application</h2>
   <div class="desc-lg">
-    To exhibit at one of ENK’s shows, please begin the application process by choosing a show and completing the short form below. 
-    If you have questions during this process, please contact <a href="mailto:accessoriecircuit@enkshows.com">accessoriecircuit@enkshows.com</a> or call 212.759.8055.
+    <p>To exhibit at one of ENK’s shows, please begin the application process by choosing a show and completing the short form below. 
+    If you have questions during this process, please contact <a href="mailto:accessoriecircuit@enkshows.com">accessoriecircuit@enkshows.com</a> or call 212.759.8055.</p>
   </div>
   <div class="module-content">
 

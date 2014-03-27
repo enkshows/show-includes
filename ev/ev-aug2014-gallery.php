@@ -3,12 +3,12 @@
   <div class="module-content" style="margin:10px 0 0px 0;">
     <div class="slider-wrapper theme-default controlnav-thumbs">
       <div id="slider" class="nivoSlider">
-        <img src="../../../img/shows/vegas/2014/feb/gallery/01.jpg" rel="../../../img/shows/vegas/2014/feb/gallery/thumb_01.jpg" alt="" />
-        <img src="../../../img/shows/vegas/2014/feb/gallery/02.jpg" rel="../../../img/shows/vegas/2014/feb/gallery/thumb_02.jpg" alt="" />
-        <img src="../../../img/shows/vegas/2014/feb/gallery/03.jpg" rel="../../../img/shows/vegas/2014/feb/gallery/thumb_03.jpg" alt="" />
-        <img src="../../../img/shows/vegas/2014/feb/gallery/04.jpg" rel="../../../img/shows/vegas/2014/feb/gallery/thumb_04.jpg" alt="" />
-        <img src="../../../img/shows/vegas/2014/feb/gallery/05.jpg" rel="../../../img/shows/vegas/2014/feb/gallery/thumb_05.jpg" alt="" />
-        <img src="../../../img/shows/vegas/2014/feb/gallery/06.jpg" rel="../../../img/shows/vegas/2014/feb/gallery/thumb_06.jpg" alt="" />
+        <img src="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery1.jpg" rel="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery1-thumb.jpg" alt="" />
+        <img src="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery2.jpg" rel="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery2-thumb.jpg" alt="" />
+        <img src="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery3.jpg" rel="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery3-thumb.jpg" alt="" />
+        <img src="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery4.jpg" rel="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery4-thumb.jpg" alt="" />
+        <img src="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery5.jpg" rel="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery5-thumb.jpg" alt="" />
+        <img src="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery6.jpg" rel="<?php echo IMG_EV; ?>2014/aug/gallery/ev-aug2014-gallery6-thumb.jpg" alt="" />
       </div>
     </div>
   </div>

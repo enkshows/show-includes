@@ -28,11 +28,7 @@
       </div>
       <div id="concierge-content2" class="showcol-content">
         <strong>HOTELS</strong><br>
-        ENK, together with our travel partner Quikbook, has negotiated discounted rates at many NYC hotels. 
-
-        Please visit Quikbook for <a href="http://www2.quikbook.com/event/enkcclub-march.asp?incentivecode=ENKCCLUBATT&utm_source=ENKCCLUB&utm_medium=site&utm_content=ENKCCLUBATT&utm_campaign=qbprivatelabelsite" target="new"><strong>Attendees</strong></a> 
-        or for <a href="http://www2.quikbook.com/event/enkcclub-march.asp?incentivecode=ENKCCLUBEXH&utm_source=ENKCCLUB&utm_medium=site&utm_content=ENKCCLUBEXH&utm_campaign=qbprivatelabelsite" target="new"><strong>Exhibitors</strong></a> 
-        to make reservations or call 800.789.9887 (from the US, Canada & Caribbean) or 212.779.7666.
+          <p>Coming soon...</p>
       </div>
       <div id="concierge-content3" class="showcol-content">
         <strong>TAXIS</strong><br />
@@ -46,7 +42,7 @@
         <strong>SKYLINE LIMOUSINE</strong><br />
         ENK will have a dispatcher from <a href="http://www.skylineride.com/" target="_blank">Skyline</a> limousine at the Show venue so that guests may arrange private transportation during the Exhibition. Skyline has a very large fleet of Town Cars: non-smoking cars are available upon request. <br> 
         <br/>
-        To pre-arrange an account Skyline, please print and complete the <a target="_blank" href="../pdf/skyline_credit_app.pdf">credit application</a>, and mail or fax it to them directly.
+        To pre-arrange an account Skyline, please print and complete the <a target="_blank" href="<?php echo BASE; ?>/pdf/skyline_credit_app.pdf">credit application</a>, and mail or fax it to them directly.
         <br /><br /> 
       </div>
       <div id="concierge-content4" class="showcol-content">
@@ -85,26 +81,29 @@
         1.800.Blue Van (258.3826)<br/><br/>
       </div>
       <div id="concierge-content7" class="showcol-content">
-        <strong>PIERS PARKING</strong><br>
-        To access The Pier parking area, go up the ramp; follow the Parking signs to the roof. Park your car and take the escalator directly to street level. 
-        You will need your parking receipt when you exit. You may arrange overnight parking with the Parking Attendant upon entering the lot.
-        <br><br>
-        <strong>NEIGHBORHOOD PARKING</strong><br>
-        The Piers complex will be busy with ENK Exhibitors as well as ship traffic. If you are driving to the Piers, you may wish to park in one of the nearby lots. 
-        <br>
-        Note: parking costs vary; you should ask the cost before parking.<br><br>
-        <strong>RAPID PARK</strong><br>
-        West 55th Street btwn 9th & 10th Ave, 6am-1am daily, Cash/Credit Card (no trucks or SUV’s)<br>
-        <strong>GMC PARKING</strong><br>
-        West 56th Street btwn 11th and 12th Ave<br>
-        <strong>57th STREET GARAGE</strong><br>
-        West 57th Street btwn 11th & 12th Ave, 24-hrs, daily, Cash only<br>
-        <strong>CENTRAL PARKING</strong><br>
-        West 57th Street at 11th Ave, 24-hours, daily, Cash and Credit Card<br>
-        <strong>PARK N RIDE</strong><br>
-        West 60th Street btwn 11th & 12th Ave, 24-hours, daily, Cash/Credit Card<br>
-        <strong>CONCERTO GARAGE</strong><br>
-        West 59th Street btwn 10th & 11th Avenues, 24-hours, daily, Cash only<br>
+        <strong style="font-size:14px;">JAVITS PARKING</strong><br><br>
+        <strong>MP 41 LLC, 475 West 41st Street</strong><br>
+        Up to 10 hrs - $12<br>
+        Up to 12 hrs - $20<br>
+        Up to 24 hrs - $45<br><br>
+        <strong>EDISON</strong><br>
+        451 9th Avenue, between 35th & 36th Street<br>
+        412-422 West 33rd @ 9th Avenue<br><br>
+        <strong>KINNEY</strong><br>
+        150 West 38th Street, 6am - 12am<br>
+        252 West 40th Street, 6:30am - 11pm<br><br>
+        <strong>MEYERS</strong><br>
+        230 West 31st Street, 24 hours<br>
+        551 West 38th Street, 7am - 6pm<br><br>
+        <strong>PUBLIC PARKING</strong><br>
+        493 10th Avenue @ 38th Street, 24 hours<br>
+        484 10th Avenue, between 37th & 38th Streets, 24 hours<br>
+        330 10th Avenue @ 30th Street, 24 hours<br>
+        518 30th Street, between 10th & 11th Avenue, 24 hours<br>
+        519 9th Avenue @ 37th Street, 24 hours<br>
+        475 9th Avenue @ 37th Street, 24 hours<br>
+        451 10th Avenue @ 37th Street, 24 hours<br>
+        550 W 37th Street, between 10th & 11th Avenue, 24 hours<br><br>
       </div>
     </div>
   </div> <!-- END module-content --> 

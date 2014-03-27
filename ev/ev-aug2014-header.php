@@ -1,4 +1,4 @@
-<div id="info-container" class="ac-may2014-header">
+<div id="info-container" class="ev-aug2014-header">
   <div class="info-top-box">
     <div class="info-name">ENK Vegas</div>
     <div class="info-dates">August 18.19.20</div>

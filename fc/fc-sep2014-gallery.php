@@ -4,12 +4,12 @@
     <div class="slider-wrapper theme-default controlnav-thumbs">
       <div class="ribbon"></div>
       <div id="slider" class="nivoSlider">
-        <img src="../../../img/shows/coterie/gallery/sept/06.jpg" rel="../../../img/shows/coterie/gallery/sept/thumb_06.jpg" alt="" />
-        <img src="../../../img/shows/coterie/gallery/sept/03.jpg" rel="../../../img/shows/coterie/gallery/sept/thumb_03.jpg" alt="" />
-        <img src="../../../img/shows/coterie/gallery/sept/04.jpg" rel="../../../img/shows/coterie/gallery/sept/thumb_04.jpg" alt="" />
-        <img src="../../../img/shows/coterie/gallery/sept/05.jpg" rel="../../../img/shows/coterie/gallery/sept/thumb_05.jpg" alt="" />
-        <img src="../../../img/shows/coterie/gallery/sept/02.jpg" rel="../../../img/shows/coterie/gallery/sept/thumb_02.jpg" alt="" />                                
-        <img src="../../../img/shows/coterie/gallery/sept/01.jpg" rel="../../../img/shows/coterie/gallery/sept/thumb_01.jpg" alt="" />
+        <img src="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery1.jpg" rel="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery1-thumb.jpg" alt="" />
+        <img src="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery2.jpg" rel="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery2-thumb.jpg" alt="" />
+        <img src="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery3.jpg" rel="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery3-thumb.jpg" alt="" />
+        <img src="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery4.jpg" rel="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery4-thumb.jpg" alt="" />
+        <img src="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery5.jpg" rel="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery5-thumb.jpg" alt="" />                                
+        <img src="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery6.jpg" rel="<?php echo DEV_FC; ?>gallery/2014/sep/fc-sep2014-gallery6-thumb.jpg" alt="" />
       </div>
     </div>
   </div>

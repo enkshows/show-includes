@@ -13,8 +13,10 @@
   <meta name="author" content="ENK International">
   <meta name="viewport" content="width=device-width">
   <meta name="format-detection" content="telephone=no">
+  
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/enk.css">
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/style.css">
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/form.css">
 
-  <link rel="stylesheet" href="../css/style.css<?php echo '?v=' . filemtime( '../css/style.css' ); ?>">
-    <link rel="stylesheet" href="../css/form.css<?php echo '?v=' . filemtime( '../css/style.css' ); ?>">
     
 </head>

@@ -1,8 +1,8 @@
 <div id="form5" class="form5 formhide">
  <h2>Visit our show</h2>
  <div class="desc-lg">
-  To visit one of ENK’s shows, please begin the application process by choosing a show and completing the short form below. 
-  If you have questions during this process, please contact <a href="mailto:accessoriecircuit@enkshows.com">accessoriecircuit@enkshows.com</a> or call 212.759.8055.
+  <p>To visit one of ENK’s shows, please begin the application process by choosing a show and completing the short form below. 
+  If you have questions during this process, please contact <a href="mailto:accessoriecircuit@enkshows.com">accessoriecircuit@enkshows.com</a> or call 212.759.8055.</p>
 </div>
 <div class="module-content">
   <div id="visitor_form">
@@ -37,20 +37,11 @@
             
             <div class="visitorGuestsHolder">
               <select name="visitorType" class="visitorType text-input required" tabindex="502">
-                <option value="NONE" selected="selected">
-                  COMPANY CATEGORY
-                </option>
-                <option value="Exhibitor">
-                  POTENTIAL EXHIBITOR
-                </option>
-                <option value="Press">
-                  PRESS
-                </option>
-                <option value="Other">
-                  OTHER
-                </option>
+                <option value="NONE" selected="selected">COMPANY CATEGORY</option>
+                <option value="Exhibitor">POTENTIAL EXHIBITOR</option>
+                <option value="Press">PRESS</option>
+                <option value="Other">OTHER</option>
               </select>
-              
               <input type="text" name="numberGuests" size="30" value="Guests #" class="numberGuests text-input required" tabindex="503">
             </div>
             

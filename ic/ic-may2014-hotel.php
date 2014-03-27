@@ -36,7 +36,8 @@
       </div>
       <div id="concierge-content2" class="showcol-content">
         <strong>HOTELS</strong><br> 
-        Coming Soon      
+        <p><a href="https://www.morganshotelgroup.com/special/Hudson-enk-accessories-circuit">An exclusive hotel rate of $269 per night at the Hudson Hotel.</a> Book before April 4th and be sure to mention Circuit or Intermezzo! (Non ENK rate $305). Contact 800.606.6090 or 702.577.2830 to book.</p><br>
+        <p>For exclusive hotel discounts and reservations, please click <a href="http://www2.quikbook.com/event/enkcircuitintermezzo-may14.asp?incentivecode=ENKACIRCUITEXH&utm_source=ENKACIRCUIT&utm_medium=site&utm_content=ENKACIRCUITATT&utm_campaign=qbprivatelabelsite" target="new"><strong>Attendees</strong></a> or <a href="http://www2.quikbook.com/event/enkcircuitintermezzo-may14.asp?incentivecode=ENKACIRCUITEXH&utm_source=ENKACIRCUIT&utm_medium=site&utm_content=ENKACIRCUITEXH&utm_campaign=qbprivatelabelsite" target="new"><strong>Exhibitors</strong></a>.</p><br>
       </div>
       <div id="concierge-content3" class="showcol-content">
         <strong>TAXIS</strong><br />

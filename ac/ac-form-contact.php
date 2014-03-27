@@ -1,8 +1,8 @@
 <div id="form3" class="form3 formhide">
  <h2>Contact</h2>
  <div class="desc-lg">
-  Please feel free to communicate with one of our Accessorie Circuit show team members by completing the brief form below. 
-  You will receive a response within 24 business hours, Monday through Friday.
+  <p>Please feel free to communicate with one of our Accessorie Circuit show team members by completing the brief form below. 
+  You will receive a response within 24 business hours, Monday through Friday.</p>
 </div>
 <div class="module-content">
 

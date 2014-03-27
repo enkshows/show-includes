@@ -35,30 +35,20 @@
     <div style="margin-top:20px;" class="text-foot"></div> 
   </div>
 
-  <div class="module-content" style="margin-top: 0;">
-    <h2>Sneak Peek @ Coterie February 2014</h2>
-    <div class="descbox3"> 
-     A hand selected trend board highlighting Coterie designers.<br/><br/>
-     <div id="news6" >
-       <div class="spImg" style="margin-bottom:10px;">
-        <a href="../../../pdf/coterie/2014/feb/coterie-feb2014-sneakpeek-02.pdf"  target="_blank" title="Coterie Sneak Peek 02">
-          <img src="../../../img/shows/coterie/2014/feb/SneakPeekHeader.jpg" width="480"  alt="Coterie Sneak Peek 02">
-        </a>
-      </div>  
-      <div class="spTxt">
-        <strong>February 02</strong> <strong class="red">Sneak Peek 02</strong> <br />
-        <a title="Coterie Sneak Peek 01"  href="../../../pdf/coterie/2014/feb/coterie-feb2014-sneakpeek-02.pdf" target="_blank">See Sneak Peek</a><br /><br /> 
-        <strong>January 16</strong> <strong class="red">Sneak Peek 01</strong> <br />
-        <a title="Coterie Sneak Peek 01"  href="../../../pdf/coterie/2014/feb/coterie-feb2014-sneakpeek-01.pdf" target="_blank">See Sneak Peek</a><br /><br />                             
-      </div>  
-    </div>
-  </div>
-  <div style="margin-top:0px;" class="text-foot"></div> 
-  </div>
-
   <div class="module-content" style="margin-top:0;">
     <h2>Recent Press</h2>
     <div class="imagePressBox">
+      <div class="element" >   
+        <a href="http://idiosyncraticfashionistas.blogspot.com/2014/03/trade-show-hijinks-at-enks-coterie.html?m=1" target="_blank" class="captionShow" style="height:55px;">
+          <span class="publication" target="_blank">Idiosyncratic Fashionistas</span>
+          <br />
+          <span class="article" target="_blank">Trade Show Hijinks at ENK's Coterie</span>
+        </a>
+        <a href="http://idiosyncraticfashionistas.blogspot.com/2014/03/trade-show-hijinks-at-enks-coterie.html?m=1" target="_blank">
+          <img src="../../../img/press/idio-fasion_press.png" />
+        </a>
+      </div>
+
 
       <div class="element" >   
         <a href="http://www.digitaljournal.com/pr/1715951" target="_blank" class="captionShow" style="height:55px;">

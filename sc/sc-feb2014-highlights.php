@@ -35,8 +35,6 @@
        <br/>
        <br/>
        <a href="http://newandnoteworthy.enkshows.com/" target="_blank">See New + Noteworthy</a><br />
-
-
      </div>
     </div>  
     <div style="margin-top:20px;" class="text-foot"></div> 

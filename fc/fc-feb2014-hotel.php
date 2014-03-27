@@ -26,7 +26,7 @@
           Tuesday, February 25 / 9am - 5pm<br><br>
           </br>
         </div> 
-        <iframe width="520" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="../maps/javits.html"></iframe> 
+        <iframe width="520" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="<?php echo BASE; ?>/maps/javits.html"></iframe> 
       </div>
 
       <div id="concierge-content3" class="showcol-content"> 

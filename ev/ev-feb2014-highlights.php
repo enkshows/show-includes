@@ -23,7 +23,7 @@
     <h2>February 2014 Digital Look Book</h2>
     <div class="image-lg">
       <a href="http://enkvegaslookbook.enkshows.com/" target="_blank" title="ENKVEGAS Digital Lookbook" >
-        <img src="../img/shows/vegas/2014/feb/vegas-sneakpeek.png" width="370" >
+        <img src="<?php echo BASE; ?>/img/shows/vegas/enkvegas-lookbook.jpg" width="370" >
       </a>
     </div>
 
@@ -40,29 +40,6 @@
   </div><!-- Lookbook -->
   
   <div class="module-content" style="margin-top:0;">
-    <h2>Sneak Peek @ ENK Vegas 2014</h2>
-    <div class="descbox3"> 
-     A hand selected trend board highlighting ENK Vegas designers.<br/><br/>
-      <div id="news6" >
-       <div class="spImg" style="margin-bottom:10px;">
-          <a href="../img/shows/vegas/2014/feb/vegas-sneakpeek2.jpg"  target="_blank" title="ENK Vegas Sneakpeek 02">
-            <img src="../img/shows/vegas/2014/feb/vegas-sneakpeek2.jpg" width="480"  alt="ENK Vegas Sneakpeek 02">
-          </a>
-        </div>  
-        <div class="spTxt">
-          <strong>January 23, 2014</strong> <strong class="red">Sneak Peek 02</strong> <br />
-          <a title="ENK Vegas Sneakpeek 02"  href="../img/shows/vegas/2014/feb/vegas-sneakpeek2.jpg" target="_blank">See Sneak Peek</a>
-          <br /><br />  
-          <strong>January 6, 2014</strong> <strong class="red">Sneak Peek 01</strong> <br />
-          <a title="ENK Vegas Sneakpeek 01"  href="../img/shows/vegas/2014/feb/vegas-sneakpeek.jpg" target="_blank">See Sneak Peek</a>
-          <br /><br />       
-        </div>  
-      </div>
-    </div>
-    <div class="text-foot"><a href="#" data-hide="news6" class="more linkhide">more</a></div>
-  </div><!-- Sneakpeek -->
-  
-  <div class="module-content" style="margin-top:0;">
     <h2>Recent Press</h2>
     <div class="imagePressBox">
       
@@ -73,7 +50,7 @@
           <span class="article" target="_blank">Las Vegas Preview: Things to Know at the Shows</span>
         </a>
         <a href="http://www.wwd.com/markets-news/markets-features/things-to-know-at-the-las-vegas-shows-7442617?module=more_on" target="_blank">
-          <img src="../img/press/WWD_general.jpg"/>
+          <img src="<?php echo BASE; ?>/img/press/WWD_general.jpg"/>
         </a>
       </div>
 
@@ -84,7 +61,7 @@
           <span class="article" target="_blank">Exclusively at ENKVegas</span>
         </a>
         <a href=" http://www.wwd.com/markets-news/ready-to-wear-sportswear/exclusively-at-enk-vegas-7442819" target="_blank">
-          <img src="../img/press/WWD_general.jpg"/>
+          <img src="<?php echo BASE; ?>/img/press/WWD_general.jpg"/>
         </a>
       </div>
 
@@ -95,7 +72,7 @@
           <span class="article" target="_blank">Las Vegas Shows at a Glance</span>
         </a>
         <a href="http://www.wwd.com/markets-news/markets-features/las-vegas-shows-at-a-glance-7442519?src=search_links" target="_blank">
-          <img src="../img/press/WWD_general.jpg"/>
+          <img src="<?php echo BASE; ?>/img/press/WWD_general.jpg"/>
         </a>
       </div>
 
@@ -107,7 +84,7 @@
           <span class="article" target="_blank">ENKVegas Spring/Summer 2014</span>
         </a>
         <a href="http://blog.trendstop.com/2013/10/enk-vegas-springsummer-2014-in-collaboration-with-fashionedits/" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/trendstop.jpg" />
+          <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/trendstop.jpg" />
         </a>
       </div> 
       
@@ -118,7 +95,7 @@
           <span class="article" target="_blank">Digital Issue <br>Aug 19</span>
         </a>
         <a href="http://issuu.com/dailyfrontrow/docs/dailystylist08192013" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/daily_08192013.jpg" />
+          <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/daily_08192013.jpg" />
         </a>
       </div>
 
@@ -129,7 +106,7 @@
           <span class="article" target="_blank">Queen of studs Calleen Cordero opens new stores, launches summer sale</span>
         </a>
         <a href="http://www.latimes.com/features/image/alltherage/la-ar-calleen-cordero-opens-new-stores-summer-sale-20130709,0,2402013.story" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/lat_general.jpg" />
+          <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/lat_general.jpg" />
         </a>
       </div> 
 
@@ -140,7 +117,7 @@
           <span class="article" target="_blank">The los angeles fashion story featuring kao pao shu by marco schillaci</span>
         </a>
         <a href="http://fashionbeyondfashion.wordpress.com/2013/07/28/minimalism-elegance-comfort-the-los-angeles-fashion-story-featuring-kao-pao-shu-by-marco-schillaci/" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/fbf_general.jpg" />
+       <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/fbf_general.jpg" />
         </a>
       </div>
 
@@ -151,7 +128,7 @@
           <span class="article" target="_blank">Growing the Michael Stars brand beyond <br /> T-shirts</span>
         </a>
         <a href="http://www.latimes.com/features/image/la-ig-michael-stars-20130623,0,5022207.story" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/lat_general.jpg" />
+          <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/lat_general.jpg" />
         </a>
       </div> 
 
@@ -162,7 +139,7 @@
           <span class="article" target="_blank">How indie <br /> clothing <br /> company <br /> Preloved  <br />reclaimed  its <br /> street cred</span>
         </a>
         <a href="http://business.financialpost.com/2013/06/02/how-indie-clothing-company-preloved-reclaimed-its-street-cred/" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/fp_general.jpg" />
+          <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/fp_general.jpg" />
         </a>
       </div> 
 
@@ -173,7 +150,7 @@
           <span class="article" target="_blank">The elegant minimalism of bags by Kao Pao Shu</span>
         </a>
         <a href="http://fashionbeyondfashion.wordpress.com/2013/06/23/the-elegant-minimalism-of-bags-by-kao-pao-shu/" target="_blank">
-          <img src="../img/shows/vegas/press/thumb/fbf_general.jpg" />
+          <img src="<?php echo BASE; ?>/img/shows/vegas/press/thumb/fbf_general.jpg" />
         </a>
       </div> 
 

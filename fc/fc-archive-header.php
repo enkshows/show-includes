@@ -1,3 +1,5 @@
+<?php include("../../../includes/variables.php");?>
+
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
@@ -14,10 +16,10 @@
   <meta name="author" content="ENK International">
   <meta name="viewport" content="width=940">
   <meta name="format-detection" content="telephone=no">
+  
 
-  <link rel="stylesheet" href="../../../css/style.css">
-  <link rel="stylesheet" href="../../../css/form.css">
-    
-    
-    
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/enk.css">
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/style.css">
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/form.css">
+
 </head>
